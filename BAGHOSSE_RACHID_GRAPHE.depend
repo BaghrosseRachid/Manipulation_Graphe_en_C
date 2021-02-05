@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1580493951 source:c:\users\rachid\desktop\baghosse_rachid_graphe\graphe.c
+	"graphe.h"
+
+1580493229 c:\users\rachid\desktop\baghosse_rachid_graphe\graphe.h
+	<stdio.h>
+
+1580485223 source:c:\users\rachid\desktop\baghosse_rachid_graphe\main.c
+	"graphe.h"
+
